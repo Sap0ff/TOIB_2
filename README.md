@@ -67,4 +67,3 @@ mkdir 1.txt
 touch 1.txt
 
 rm 1.txt
-Practice_2
