@@ -8,7 +8,7 @@
 # Шаг 1
 
 
-Срздаем суперпользователя Super-Sapov.A.D
+Создаем суперпользователя Super-Sapov.A.D
  sudo useradd Super-Sapov.A.D
  
  sudo usermod -a -G sudo Super-Sapov.A.D
