@@ -59,7 +59,7 @@ sudo chmod 770 ~
 sudo chown Super-Sapov.A.D:BBMO-02-23 ~
 
 
-# Шаг 7
+# Шаг 6
 Проверка механизмов разграничения доступа.
 
 mkdir 1.txt
